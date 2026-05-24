@@ -19,6 +19,7 @@ Power BI Desktop
 Data Warehouse (DW) Data
 Lightweight (LT) Data
 📂 Project Setup
+
 1️⃣ Install Required Tools
 
 Make sure the following software is installed:
@@ -26,6 +27,7 @@ Make sure the following software is installed:
 SQL Server Express
 SQL Server Management Studio (SSMS)
 Power BI Desktop
+
 2️⃣ Restore Database
 
 Download and restore:
@@ -70,7 +72,9 @@ ORDER BY
 LEFT JOIN
 CASE() Function
 ISNULL() Function
+
 🏗️ Data Modeling
+
 FACT Tables
 
 Contain measurable business data such as:
@@ -94,6 +98,7 @@ The transformed data was exported for Power BI reporting.
 
 📈 Power BI Dashboard Development
 Steps Performed
+
 ✅ Load Data
 
 Imported cleaned SQL data into Power BI.
@@ -118,6 +123,7 @@ Total Sales
 Profit
 Budget Comparison
 Growth Percentage
+
 📉 Dashboard Visualizations
 
 The dashboard includes:
@@ -129,6 +135,7 @@ Map Visualizations
 Top 10 Products Graph
 KPI Cards
 Sales Trend Analysis
+
 🎯 Key Insights
 
 The dashboard helps businesses:
@@ -138,6 +145,7 @@ Identify top-selling products
 Analyze customer behavior
 Compare actual sales vs budget
 Monitor regional growth
+
 🚀 Learning Outcomes
 
 Through this project, you will learn:
@@ -149,6 +157,7 @@ Power BI Data Modeling
 DAX Calculations
 Dashboard Design
 Business Intelligence Reporting
+
 📌 Conclusion
 
 This project is a complete beginner-to-intermediate level Data Analytics project that demonstrates how SQL and Power BI work together to generate actionable business insights from raw sales data.
